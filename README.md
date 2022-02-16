@@ -2,5 +2,4 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on C++
-- 🌱 I’m currently learning Go, JavaScript
+- 🔭 I’m working at Zoom, focus on C++ cross platform library for Zoom clients.
